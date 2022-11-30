@@ -1945,4 +1945,41 @@ opacity: 100%;
   filter: brightness(0) invert(1);
 }
 
+/*--------------------------------------------------------------
+# hero
+--------------------------------------------------------------*/
+.hero {
+  padding: 60px 0;
+}
 
+.hero h2 {
+  color: #ffffff;
+  font-size: 76px;
+  font-weight: 700;
+  font-family: var(--title-font);
+}
+
+.hero p {
+  color: #fff;
+  font-family: var(--body-font);
+}
+
+.hero .hero-btn {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.8s;
+  margin-top: 10px;
+  border: 2px solid #FF7E02;
+  color: #fff;
+}
+
+.hero .hero-btn:hover {
+  background: #d57f41;
+  border: 2px solid #FF7E02;
+}
