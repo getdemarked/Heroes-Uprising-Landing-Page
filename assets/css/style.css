@@ -1929,11 +1929,12 @@ opacity: 100%;
 }
 
 .powered-section-featured {
-  margin-right: 30px;
+  padding: 4.8rem 0 3.2rem 0;
 }
 
 .poweredlogos {
   display: flex;
+  justify-content: space-around;
   
 }
 
@@ -1943,3 +1944,5 @@ opacity: 100%;
   height: 90px;
   filter: brightness(0) invert(1);
 }
+
+
