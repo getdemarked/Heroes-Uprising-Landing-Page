@@ -1444,7 +1444,8 @@ section {
 
 .team .member .pic {
   overflow: hidden;
-  width: 170px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   margin: 0 auto 20px auto;
   border: 6px solid #D6B38E;
@@ -1526,7 +1527,6 @@ section {
 .team .member .social a+a {
   margin-left: 8px;
 }
-
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
